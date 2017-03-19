@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="estiloUCSS2.css" rel="stylesheet" media="screen">
+<title>
+</title>
+</head>
+<body>
+<table align='center'>
+<thead>
+<tr>
+<th colspan='2'>
+<h1>SEMINARIO OLORTIGUE, RAUL MARTIN</h1>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr><th><h2>Formación Académica</h2></th></tr>
+<tr><th class='der' align='left'>Ingeniero Economista</th></tr>
+<tr><th><h2>Trayectoria Profesional</h2></th></tr>
+<tr><th class = 'der' align='left'>Analista de Base de Datos Banco Continental (Contidata)</th></tr>
+<tr><th class = 'der' align='left'>Analista de Procesos Banco Financiero.</th></tr>
+<tr><th class = 'der' align='left'>Analista de Riesgo Operativo Banco Financiero</th></tr>
+<tr><th class = 'der' align='left'>Asistente de Proyectos Especiales Banco Financiero</th></tr>
+<tr><th class = 'der' align='left'>Jefe de Seguridad Informática Banco Financiero</th></tr>
+<tr><th class = 'der' align='left'>Analista de Riesgo Operativo Banco Financiero</th></tr>
+<tr><th class = 'der' align='left'>Docente en CERTUS.</th></tr>
+<tr><th class = 'der' align='left'>Asesor Externo independiente a Entidades Financieras.</th></tr>
+<tr><th class = 'der' align='left'>Consultor Sénior en QA & Asesoría Empresarial</th></tr>
+<tr><th class = 'der' align='left'>Docente en la Universidad Privada del Norte</th></tr>
+</tbody>
+</table>
+<div class="boton-regresar"><a href="javascript:history.back(-1);" >Regresar</a></div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+Para convertir los archivos de texto de Windows a encoding UTF-8
+Abrir la consola BASH
+Posicionarse en la carpeta con los archivos *.php a convertir (OJO convierte tambien las subcarpetas) Nota: cambiar "\" por "/"
+
+
+EJECUTAR
+
+find -name '*.php' -exec vim {} '+set fenc=utf-8' '+x' \;
+
+OJO: Demora segun la cantidad de archivos. Parpadea y salta.
