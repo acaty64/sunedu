@@ -16,19 +16,19 @@
 PLANA DOCENTE 2016<br/>UNIVERSIDAD CATÓLICA SEDES SAPIENTIAE
 </th>
 <tr>
-<th>
-Registro
+<th class='subtit'>
+Reg.
 </th>
-<th>
-Docente
+<th class='subtit'>
+Apellidos y Nombres
 </th>
-<th>
+<th class='subtit'>
 País
 </th>
-<th>
+<th class='subtit'>
 Categoría
 </th>
-<th>
+<th class='subtit'>
 Dedicación
 </th>
 </tr>

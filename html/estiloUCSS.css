@@ -19,8 +19,14 @@ th{
 	color:#FFF;
 	background-color: #00a6b6;
 	text-indent: 0.5em;
-	font-size: 12px;
+	font-size: 12px;	
+	text-align: center;
 	border-color: #FFF;
+	border-left-width: 0px;
+	border-right-width: 1px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-style: solid;
 }
 
 tbody{
